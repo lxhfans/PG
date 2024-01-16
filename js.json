@@ -27,12 +27,10 @@
 {"key":"bili_open","name":"哔哩貓[影视专用]","type":3,"api":"https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js","searchable":1,"changeable":0,"ext":{"categories":"沙雕动画#沙雕穿越#沙雕","cookie":""}},
 {"key":"drpy_js_短剧网","name":"影视 | 短剧网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/短剧网.js"},
 {"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
-{"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/抓饭体育.js"}，
 {"key":"drpy_js_武享吧","name":"体育 | 武享吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/武享吧.js"},
 {"key":"drpy_rrdyw","name":"影视 | rrdyw[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/rrdyw.js"},
-{"key":"drpy_js_4KHDR[磁]","name":"磁力 | 4KHDR[磁][js]","type":3,"api":"./lib/drpy2.min.js"，"ext":"./js/4KHDR[磁].js"},
 {"key":"drpy_js_6V新版[磁]","name":"磁力 | 6V新版[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/6V新版[磁].js"},
-{"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
+{"key":"drpy_js_磁力熊[磁]"，"name":"磁力 | 磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
 {"key":"drpy_js_小纸条","name":"小纸条[测试js]","type":3,"api":"./js/小纸条一级推送测试.js"},
 {"key":"drpy_js_ikanbot1","name":"聚搜 | 爱看机器人1[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看机器人.js"},
